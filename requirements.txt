@@ -1,0 +1,7 @@
+neo4j
+python-dotenv
+fastapi
+uvicorn
+strawberry-graphql
+six
+python-dateutil
